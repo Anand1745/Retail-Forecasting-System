@@ -214,7 +214,7 @@ Since real retail data is not available, this project:
 
 ## 👤 Author
 
-**Anand Ramesh**
+**Anand Ramesh Karunakaran**
 
 ---
 
