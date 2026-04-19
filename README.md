@@ -92,7 +92,7 @@ Retail-Forecasting-System/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Anand1745/Retail-Forecasting-System.git
 cd Retail-Forecasting-System
 ```
 
